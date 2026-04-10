@@ -1,0 +1,7 @@
+Localidad,Nombre,Poblacion_referencia,Tipo_zona,Km_viales,Indice_ingreso
+A,Centro,1200000,Urbana,850,Alto
+B,Norte,750000,Urbana,620,Medio
+C,Sur,450000,Mixta,410,Bajo
+D,Occidente,600000,Urbana,540,Medio
+E,Oriente,300000,Mixta,320,Bajo
+F,Periferia,900000,Periurbana,700,Medio
